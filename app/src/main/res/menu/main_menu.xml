@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mainPage"
+        android:icon="?attr/homeAsUpIndicator"
+        android:title="Main Page" />
+    <item
+        android:id="@+id/aboutMe"
+        android:title="About Me" />
+    <item
+        android:id="@+id/portfolio"
+        android:title="Portfolio" />
+    <item
+        android:id="@+id/connectWithMe"
+        android:title="Connect With Me" />
+    <item
+        android:id="@+id/myBlogPage"
+        android:title="My Blog Page"/>
+</menu>
