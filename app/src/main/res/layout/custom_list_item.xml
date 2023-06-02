@@ -28,7 +28,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Lonnie Stone"
-            android:textColor="#3F51B5"
+            android:textColor="#321650"
             android:textSize="26sp" />
 
         <TextView
