@@ -1,5 +1,5 @@
 # Bography Android App
-It is an autobiography application where I show pictures of my projects using the Glide library and share my own Github account with WebView.
+It is an autobiography application where I show pictures of my projects using the `Glide library` and share my own Github account with WebView.
 <br/>
 <br/>
 | Name | Version | 
